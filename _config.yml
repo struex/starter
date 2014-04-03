@@ -1,4 +1,4 @@
-baseurl: /starter
+baseurl: /struex/starter
 permalink: pretty
 markdown: rdiscount
 prose:
